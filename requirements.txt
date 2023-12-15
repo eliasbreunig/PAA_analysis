@@ -2,3 +2,4 @@ numpy
 matplotlib
 transforms3d
 pytransform3d
+pydot
