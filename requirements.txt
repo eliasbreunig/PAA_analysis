@@ -3,3 +3,4 @@ matplotlib
 pytransform3d
 pydot
 ipympl
+colorama
